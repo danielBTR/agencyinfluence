@@ -1,4 +1,4 @@
 pandas
-plotly.graph_objects
+plotly-graph_objects
 decimal
 matplotlib
